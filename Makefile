@@ -4,6 +4,8 @@ all:
 	ls 
 	@echo
 	pwd
+	git config user.name "wxcop"
+	git config user.email "ztewxcop@163.com"    
 	@echo
 	git add -A .
 	@echo
